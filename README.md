@@ -65,7 +65,7 @@ The system implements and compares two deep learning architectures:
 
 ## TensorBoard Visualization
 
-Training progress and model comparisons can be visualized using TensorBoard:
+The tensorboard files are uploaded in google drive URL(https://drive.google.com/drive/folders/1kPiSqyp8t4WlVNAbV_ADRqhQ3neLZkKz?usp=sharing) because of github's file size limitations. Training progress and model comparisons can be visualized using TensorBoard:
 
 ```bash
 tensorboard --logdir=runs
